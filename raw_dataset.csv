@@ -1,0 +1,8 @@
+ID,Name,Email,Department,Salary
+101, John Doe ,JOHN@EMAIL.COM,IT,50000
+102,Alice Smith,alice@email.com,HR,45000
+103,Bob Brown,,Finance,60000
+104,John Doe,JOHN@EMAIL.COM,IT,50000
+105, Emma Wilson ,emma@email.com,Sales,
+106,Michael Lee,michael@email.com,Sales,55000
+107,alice smith,ALICE@email.com,HR,45000
